@@ -9,3 +9,12 @@ and low income countries, didn't have enough access to food in 2020, an increase
 
 According to UCU Mukono, food wastage makes up 65-79% of solid waste in landfills in Uganda causing environemental and health probleems.
 Globally, the problem is predicted to increase causing higher global food insecurity.
+
+
+## Solution
+This project seeks to create a data tool to address Global Food Insecurity using through;
+<ul>
+<li>Analysis of world datasets on Food Wastage</li>
+<li>Visualize World Food Waste Data</li>
+<li>Predict food demands and waste<li>
+</ul>
