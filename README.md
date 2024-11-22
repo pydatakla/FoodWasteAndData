@@ -29,8 +29,8 @@ This project seeks to create a data tool to address Global Food Insecurity using
 </ul>
 
 ## Scope
-This project shall address Global Food Insecurity through mitigation of food waste
-at the different levels.
+This project shall address Africa Food Insecurity through mitigation of Food Waste
+at the following levels.
 <ul>
 <li>Continental level (Specifically Africa)</li>
 <li>Regional level (for example East Africa, Southern Africa, etc) </li>
