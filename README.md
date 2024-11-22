@@ -1,6 +1,6 @@
 # FoodWasteAndData
 # Title
-Development of a continental Food Demand and Food Wastage application (Web-based)
+Development of a Continental Food Demand and Wastage Data Application (Web-based)
 
 ## Introduction
 Today, the world faces uncertainity of food security largely due to food wastage along the whole food supply chain. 
