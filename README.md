@@ -18,3 +18,15 @@ This project seeks to create a data tool to address Global Food Insecurity using
 <li>Visualize World Food Waste Data</li>
 <li>Predict food demands and waste<li>
 </ul>
+
+## Scope
+This project shall address Global Food Insecurity through mitigation of food waste
+at the different levels.
+<ul>
+<li>Continental level (Specifically Africa)</li>
+<li>Regional level (for example East Africa, Southern Africa, etc) </li>
+<li>Country level (for example Uganda, Kenya, Democratic Republic of Congo, Sudan, etc) </li>
+<li>Country regional level (for example Central Region of Uganda, Eastern Region,) </li>
+</ul>
+
+
