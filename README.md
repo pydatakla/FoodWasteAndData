@@ -16,7 +16,7 @@ This project seeks to create a data tool to address Global Food Insecurity using
 <ul>
 <li>Analysis of world datasets on Food Wastage</li>
 <li>Visualize World Food Waste Data</li>
-<li>Predict food demands and waste<li>
+<li>Predict food demands and waste</li>
 </ul>
 
 ## Scope
