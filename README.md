@@ -1,8 +1,8 @@
-## FoodWasteAndData
-## Title
-Development of a contenental Food Demand and Food Wastage application (Web-based)
+# FoodWasteAndData
+# Title
+Development of a continental Food Demand and Food Wastage application (Web-based)
 
-# Introduction
+## Introduction
 Today, the world faces uncertainity of food security largely due to food wastage along the whole food supply chain. 
 Over a third of all food produced (around 2.5 billion tons) is lost or wasted each year. One year of this occurs in the food production stage. Bostion Consulting
 Group (BCG) estimates this wasted food is worht $230 billion.
