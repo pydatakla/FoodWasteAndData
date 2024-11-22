@@ -1,4 +1,4 @@
-### FoodWasteAndData
+## FoodWasteAndData
 ## Title
 Development of a contenental Food Demand and Food Wastage application (Web-based)
 
@@ -36,6 +36,13 @@ at the different levels.
 <li>Regional level (for example East Africa, Southern Africa, etc) </li>
 <li>Country level (for example Uganda, Kenya, Democratic Republic of Congo, Sudan, etc) </li>
 <li>Country regional level (for example Central Region of Uganda, Eastern Region,) </li>
+</ul>
+
+
+## Submission
+<ul>
+<li>Application</li>
+<li>Documentation<li>
 </ul>
 
 
