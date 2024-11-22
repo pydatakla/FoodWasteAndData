@@ -42,7 +42,7 @@ at the different levels.
 ## Submission
 <ul>
 <li>Application</li>
-<li>Documentation<li>
+<li>Documentation</li>
 </ul>
 
 
