@@ -43,12 +43,12 @@ at the following levels.
 <ul>
 <li>Application</li>
 <li>Documentation</li>
-  Summary of data sources
+ </ul> Summary of data sources
 The dataset contains information on food loss across various commodities, regions, and supply stages. 
-General Information
+</ul>General Information
 •	Total Records: 25,416
 •	Number of Columns: 18
-Key Attributes: 
+## Key Attributes: 
 	m49_code and country: Numerical and textual identifiers for countries.
 	cpc_code and commodity: Codes and names of commodities.
 	year: The year of data collection.
@@ -56,7 +56,7 @@ Key Attributes:
 	activity and food_supply_stage: Descriptions of the activities and supply stages where losses occurred.
 	method_data_collection and reference: Methods used for data collection and associated references.
 	Other columns include region, cause_of_loss, treatment, sample_size, url, and notes.
-Sample Data
+## Sample Data
 A snippet of the data includes:
 •	Commodity: Rice, milled (e.g., Myanmar, 2015)
 •	Loss Percentage: Ranges (e.g., 1.78%, 11.77%)
