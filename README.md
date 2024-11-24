@@ -39,8 +39,8 @@ at the following levels.
 </ul>
 
 
-## Submission
-# Summary of Data Sources
+# Submission
+## Summary of Data Sources
 
 The dataset provides insights into food loss across various commodities, regions, and supply stages. It includes detailed records that highlight the extent, causes, and stages of food loss.
 
