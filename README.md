@@ -1,6 +1,6 @@
 # FoodWasteAndData
 # Title
-Analyzing Wastage of Food from 2000 to 2022 In East Africa
+Development of a Food Waste Dashboard for EAC countries
 
 ## Introduction
 Today, the world faces uncertainty about food security largely due to food wastage along the whole food supply chain. 
