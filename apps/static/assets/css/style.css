@@ -15447,7 +15447,9 @@ body {
 .pc-container {
   position: relative;
   top: 80px;
-  margin-left: 260px;
+  margin-left: 280px;
+  /* width: 80%; */
+  /* margin: 0 auto; */
   margin-right: 20px;
   min-height: calc(100vh - 141px);
   background: #eceff1;
@@ -15457,8 +15459,48 @@ body {
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 20px;
+  /* margin-left: 260px; */
   min-height: 90vh;
+
+  .pc-preamble {
+    min-height: 20vh;
+    width: 70%;
+    /* margin: 0 auto; */
+  }
+
+  .pc-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-gap: 2.5em;
+
+  .grids-main {
+    display: inherit;
+  grid-template-rows: 1fr 1fr;
+  grid-gap: 2.5em;
+    div {
+      min-height: 45vh;
+      background-color: blue;
+    }
+  }
+
+  .grids-aside {
+  display: inherit;
+  grid-template-rows: 1fr 1fr;
+  grid-gap: 2.5em;
+
+  div {
+    min-height: 45vh;
+    background-color: blue;
+  }
+
+  }
+  }
+
+  .data-analysis {
+
+  }
 }
+
 .pc-container .page-header + .row {
   padding-top: 24px;
 }

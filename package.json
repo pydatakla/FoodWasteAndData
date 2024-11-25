@@ -12,6 +12,7 @@
         "email": "pydatakampala1@gmail.com"
     },
     "author": "PyData Kampala",
-    "dependencies": {},
-    "devDependencies": {}
+    "dependencies": {
+        "jquery": "^3.7.1"
+    }
 }
