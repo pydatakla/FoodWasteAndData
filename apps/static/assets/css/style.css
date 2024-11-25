@@ -15479,7 +15479,10 @@ body {
   grid-gap: 2.5em;
     div {
       min-height: 45vh;
-      background-color: blue;
+      /* background-color: blue; */
+      img {
+        width: 100% 
+      }
     }
   }
 
@@ -15490,7 +15493,10 @@ body {
 
   div {
     min-height: 45vh;
-    background-color: blue;
+    /* background-color: blue; */
+    img {
+        width: 100% 
+      }
   }
 
   }
